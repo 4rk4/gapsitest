@@ -66,3 +66,7 @@ spring.data.mongodb.uri=mongodb+srv://isratest:test_2014#@cluster0.apra4vj.mongo
 spring.data.mongodb.database=isratest
 
 se realizaron los mapeos con las librerias de persistencia de MONGO tal cual como si fuese mediante JPA
+
+#Front html / js
+http://localhost:8080/welcome.html
+http://localhost:8080/proveedores.html
